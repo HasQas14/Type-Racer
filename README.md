@@ -1,2 +1,2 @@
 # Type-Racer
-Simple typing game made using python
+Simple typing game made using python with tkinter
